@@ -28,6 +28,18 @@ EXPLICACIÓN PETICIONES/PROCESO DHCP
 En resumen, el proceso completo implica el "DHCP Discover" del dispositivo, seguido por el "DHCP Offer" de los servidores disponibles, luego el "DHCP Request" del dispositivo para solicitar la configuración deseada, y finalmente, el "DHCP Acknowledgment" o "DHCP Negative Acknowledgment" del servidor para confirmar o rechazar la solicitud.
 
 
-![[https://github.com/josedaniel12345/Redes/blob/main/DORA.png]]
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/b710fe08-e10a-471f-9c18-65f5659ac41e)
+
+# CONFIGURACIÓN ISC-DHCP-SERVER LINUX
+__RUTA:__ */etc/dhcp/dhcpd.conf*
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/a83abe4c-5429-4b79-be66-cde20dbedf45)
+
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/b50b0be1-296b-4c53-b99d-8915a9037ca5)
+
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/5f56530e-c785-4cb7-83e1-6da275e785ae)
+
+
+
+
 
 

@@ -188,6 +188,11 @@ Por lo tanto el servidor que provee la delegación debe también indicar una o m
 ![image](https://github.com/josedaniel12345/Redes/assets/151370313/d4cd8755-38bd-4a35-b979-408489b6baf7)
 
 
+# COMPROBACIÓN TRANSFERENCIA DE ZONA
+
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/794544da-4d55-47d9-b836-855076e17207)
+
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/cb462836-efd1-4bc6-a474-4041b1303f00)
 
 
 

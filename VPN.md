@@ -61,7 +61,7 @@ ISAMKP PORT: 500
 				1. Cifra el payload del paquete
 		2. Tunnel Mode:
 			1. Utilizado en comunicaciones en VPN entre gateways cifrando el paquete original añadiendo un encabezado
-![[AH-ESP.excalidraw]]
+![[AH-ESP1.png]]
 
 
 

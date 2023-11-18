@@ -163,3 +163,32 @@ Por lo tanto el servidor que provee la delegación debe también indicar una o m
 
 	-  **Usos Comunes:**
 	    - TLS es ampliamente utilizado en aplicaciones web para asegurar la comunicación entre navegadores y servidores. También se utiliza en otras aplicaciones para garantizar la seguridad de las transmisiones de datos confidenciales.
+ 
+# COMANDOS PARA COMPROBAR LA CONFIGURACIÓN
+
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/84a61c20-51fa-41bc-9ca3-482749fb8b5b)
+
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/df10f4c9-1ccd-4d93-8723-3629de448bd4)
+
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/762ab28a-61a5-4234-bf02-9786cc419ad0)
+
+# CONFIGURACIÓN ARCHIVOS BIND9
+
+## NAMED.CONF.OPTIONS
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/58dd614d-4fad-413c-8bcf-c60d172d8f23)
+
+## NAMED.CONF.LOCAL
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/93c2f605-2659-49f5-b1fd-0897663f2c41)
+
+## DB.JOSEM7SMX.COM
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/4f2ba7cf-7986-4e3b-8434-66d04bcf62fe)
+
+## DB.1.16.172
+
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/d4cd8755-38bd-4a35-b979-408489b6baf7)
+
+
+
+
+
+

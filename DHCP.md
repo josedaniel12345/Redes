@@ -16,6 +16,6 @@ DORA:
 - DHCP REQUEST → BROADCAST
 - DHCP ACK → UNICAST
 
-![[DORA.excalidraw]]
+![[https://github.com/josedaniel12345/Redes/blob/main/DORA.png]]
 
 

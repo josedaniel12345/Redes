@@ -5,7 +5,8 @@ El protocolo DHCP se basa en las siglas DORA:
 - REQUEST
 - ACK
 
-![[Pasted image 20231116131518.png]]
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/c8d2d1b8-9f80-473a-bb67-be8576eb48b3)
+
 
 Como se puede apreciar el DHCP REQUEST que algunos piensan que es unicast es un broadcast por el simple hecho de que la dirección de destino es 255.255.255.255.
 

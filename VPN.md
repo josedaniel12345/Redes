@@ -105,7 +105,9 @@ int <interfaz-hacia-router>
 crypto map <name>
 ```
 
+# SIMULACIÓN DE VPN EN RED SIMPLE
 
+![image](https://github.com/josedaniel12345/Redes/assets/151370313/e1b014c7-a186-44f5-82f9-7e8c08102cdc)
 
 
 
